@@ -19,6 +19,7 @@ I used the following tools etc.:
 
 While I do not use Windows, I expect the corresponding Windows tool could be used without difficulty. Using the code as it is, you only need burn the hex file to the device.
 
+The files included here need their inconsistencies sorting out; the source is given a 'C' but 'manual-h.doc' says assembler (which it was originally), and there are inconsistencies as to the exact model of microcontroller used. Oops!
 
 
 
